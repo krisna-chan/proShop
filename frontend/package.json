@@ -2,7 +2,7 @@
   "name": "proshop-v2",
   "version": "0.1.0",
   "private": true,
-  "proxy": "pro-shop-4skywkujv-luck2.vercel.app/",
+  "proxy": "https://pro-shop-topaz.vercel.app/",
   "dependencies": {
     "@paypal/react-paypal-js": "^8.6.0",
     "@reduxjs/toolkit": "^2.2.7",
